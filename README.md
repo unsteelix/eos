@@ -1,14 +1,12 @@
-# react-typescript-boilerplate
+# Eos 
 
-## https://medium.com/@atingenkay/webpack-4-react-with-typescript-996eb78ff348
+- [ ] add redux
+- [ ] add async middleware (thunk / saga)
+- [ ] add sass / styled components
 
-### Installing Webpack:
-### Configuring Webpack:
-
-### Adding Typescript:
-### Add Typescript configuration to Webpack:
-
-### Adding React:
-### Adding html-webpack-plugin:
-
-### Adding webpack-dev-server
+- [ ] main concept
+- [ ] cloud func for sequrity
+- [ ] init db logic
+- [ ] develop data format
+- [ ] filtering with admin cards
+- [ ] editing
